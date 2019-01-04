@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-ezar-snapshot",
+  "version": "0.2.7",
+  "description": "Create snapshot from ezar",
+  "cordova": {
+    "id": "cordova-plugin-ezar-snapshot",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "augmented reality",
+    "video preview",
+    "overlay",
+    "computer vision",
+    "snapshot"
+  ],
+  "author": "Wayne Parrott <wayne@ezartech.com> (https://ezartech.com)",
+  "license": "modified MIT License, see http://ezartech.com/ezarstartupkit-license",
+  "homepage": "https://ezartech.com"
+}

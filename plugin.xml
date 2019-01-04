@@ -31,9 +31,9 @@
 		</config-file>
 		NSPhotoLibraryUsageDescription
 		<preference name="PHOTOLIBRARY_USAGE_DESCRIPTION" default=" " />
-+       <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
-+             <string>$PHOTOLIBRARY_USAGE_DESCRIPTION</string>
-+       </config-file>
+       <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
+             <string>$PHOTOLIBRARY_USAGE_DESCRIPTION</string>
+       </config-file>
 		<header-file src="src/ios/CDVezARSnapshot.h" />
 		<source-file src="src/ios/CDVezARSnapshot.m" />
 

@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ezar-snapshot",
-  "version": "0.2.7",
+  "version": "1.0.1",
   "description": "Create snapshot from ezar",
   "cordova": {
     "id": "cordova-plugin-ezar-snapshot",
